@@ -1,1 +1,3 @@
-This is my first file for git.
+This is my first file for git and change.
+This file is before the others
+Git tracking.
