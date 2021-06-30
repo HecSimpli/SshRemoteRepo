@@ -2,5 +2,5 @@ This is my first file for git and change.
 This file is before the others
 Git tracking.
 This line is new from de repository.
-
+Me falto decirte que vinieron a arreglar el lavavo.
 Ya mero voy a hacer ejercicio
